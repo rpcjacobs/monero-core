@@ -1,5 +1,7 @@
 # Monero GUI
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f78304bda94a494ebbe0f44980e37484)](https://www.codacy.com/app/rpcjacobs/monero-core?utm_source=github.com&utm_medium=referral&utm_content=rpcjacobs/monero-core&utm_campaign=badger)
+
 Copyright (c) 2014-2017, The Monero Project
 
 ## Development Resources
